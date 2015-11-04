@@ -1,0 +1,10 @@
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\DatabaseSyncSolution\obj\Release\TestMatrixWebShop.xml
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\DatabaseSyncSolution\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\DatabaseSyncSolution\obj\Release\DatabaseSyncSolution.Resources.resources
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\DatabaseSyncSolution\obj\Release\DatabaseSync.vbproj.GenerateResource.Cache
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\DatabaseSyncSolution\bin\Release\wsKonfig.xml
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\DatabaseSyncSolution\bin\Release\DatabaseSyncSolution.exe
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\DatabaseSyncSolution\bin\Release\DatabaseSyncSolution.pdb
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\DatabaseSyncSolution\bin\Release\TestMatrixWebShop.xml
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\DatabaseSyncSolution\obj\Release\DatabaseSyncSolution.exe
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\DatabaseSyncSolution\obj\Release\DatabaseSyncSolution.pdb

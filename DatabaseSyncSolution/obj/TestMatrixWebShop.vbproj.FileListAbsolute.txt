@@ -1,0 +1,23 @@
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Debug\TestMatrixWebShop.Resources.resources
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Debug\TestMatrixWebShop.vbproj.GenerateResource.Cache
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\bin\Debug\TestMatrixWebShop.exe
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\bin\Debug\TestMatrixWebShop.pdb
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\bin\Debug\TestMatrixWebShop.xml
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Debug\TestMatrixWebShop.exe
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Debug\TestMatrixWebShop.xml
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Debug\TestMatrixWebShop.pdb
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\bin\Debug\wsKonfig.xml
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\bin\Release\wsKonfig.xml
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\bin\Release\TestMatrixWebShop.exe
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\bin\Release\TestMatrixWebShop.pdb
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\bin\Release\TestMatrixWebShop.xml
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Release\TestMatrixWebShop.Resources.resources
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Release\TestMatrixWebShop.vbproj.GenerateResource.Cache
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Release\TestMatrixWebShop.exe
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Release\TestMatrixWebShop.xml
+C:\Users\Marko\Documents\Visual Studio 2005\Projects\TestMatrixWebShop\TestMatrixWebShop\obj\Release\TestMatrixWebShop.pdb
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\TestMatrixWebShop\obj\Release\TestMatrixWebShop.exe
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\TestMatrixWebShop\obj\Release\TestMatrixWebShop.xml
+C:\Users\Marko\Documents\GitHub\Database-Sync-Application\TestMatrixWebShop\obj\Release\TestMatrixWebShop.pdb

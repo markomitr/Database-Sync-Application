@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<msKonfig>
+  <UserBaza>****</UserBaza>
+  <Pass>***</Pass>
+  <Server>****</Server>
+  <BazaIme>***</BazaIme>
+  <TimerDokumentiVoSec>5</TimerDokumentiVoSec>
+  <TimerArtikliVoSec>60</TimerArtikliVoSec>
+</msKonfig>
