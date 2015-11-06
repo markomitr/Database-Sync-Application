@@ -1,6 +1,8 @@
 # Database-Sync-Application
 ERP system and eCommerce data synchronization
 
+![Preview](https://github.com/markomitr/Database-Sync-Application/blob/master/Console_Project.jpg)
+
 This console application is responsable for two-way data synchronization beetween ERP database and eCommerce database.
 
 Data synchronization include:
